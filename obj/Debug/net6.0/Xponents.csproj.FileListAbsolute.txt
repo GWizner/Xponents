@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\Xponents.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\Xponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\Xponents.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\Xponents.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\Xponents.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\Xponents\bin\Debug\net6.0\Xponents.exe
+C:\Users\Gregory Wizner\source\repos\Xponents\bin\Debug\net6.0\Xponents.deps.json
+C:\Users\Gregory Wizner\source\repos\Xponents\bin\Debug\net6.0\Xponents.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\Xponents\bin\Debug\net6.0\Xponents.dll
+C:\Users\Gregory Wizner\source\repos\Xponents\bin\Debug\net6.0\Xponents.pdb
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\Xponents.dll
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\refint\Xponents.dll
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\Xponents.pdb
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\Xponents.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\Xponents\obj\Debug\net6.0\ref\Xponents.dll
