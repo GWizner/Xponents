@@ -30,9 +30,10 @@
                     Console.WriteLine("Number          Squared          Cubed");
                     Console.WriteLine("======          =======          =====");
 
-                    for (int currInt = 1; currInt <= userInt; currInt++)
+                    for (int currInt = 0; currInt < userInt; currInt++)
                     {
-                        string strFormat = String.Format("{0, 6} {1, 16} {2, 14}", currInt, SquareInput(currInt), CubeInput(currInt));
+                        string strFormat = String.Format("{0, 6} {1, 16} {2, 14}", currInt + 1, SquareInput(currInt + 1), 
+                            CubeInput(currInt + 1));
                         Console.WriteLine(strFormat);
                     }
                 }
